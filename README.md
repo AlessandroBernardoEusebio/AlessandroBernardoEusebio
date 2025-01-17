@@ -11,5 +11,5 @@
 - Tools & Frameworks: Vue, Angular, .NET, Spring Boot, Android Studio, Flutter  
 
 ### 📫 How to reach me  
-- GitHub: [[your GitHub username or link]  ](https://github.com/AlessandroBernardoEusebio)
+- GitHub: https://github.com/AlessandroBernardoEusebio
 - Email: ABernardoE@hotmail.com - u202113640@hotmail.com
